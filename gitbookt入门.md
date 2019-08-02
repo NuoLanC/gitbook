@@ -53,7 +53,7 @@ MacBook:gitbook xhchen$ gitbook build . docs
 ## git 添加所有
 MacBook:gitbook xhchen$ git add *
 ## git 注释
-MacBook:gitbook xhchen$ git commit -m"Inital commit"
+MacBook:gitbook xhchen$ git commit -m"优化"
 [master (root-commit) 20f0a57] Inital commit
 ## 提交到github上
 MacBook:gitbook xhchen$ git push -u origin master
